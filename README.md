@@ -10,7 +10,11 @@ que tiram trabalho repetitivo da rotina jurídica e plugins para o shell do Omar
 
 - [omarchy-commit-tracker](https://github.com/LizinDev/omarchy-commit-tracker): an
   Omarchy shell plugin that puts a GitHub-style commit graph in the bar, with a history
-  panel and streaks. QML front end, Python collector, 74 tests.
+  panel and streaks. QML front end, Python collector, 75 tests.
+- [omarchy-agent-usage](https://github.com/LizinDev/omarchy-agent-usage): an Omarchy
+  bar panel for AI coding agents (Claude Code, Codex, Copilot, OpenCode, Hermes) with
+  limits, pace forecasts and token history. Replaces the built-in panel, bundles
+  collectors checked against independent counts.
 - [pdf-splitter](https://github.com/LizinDev/pdf-splitter): splits one PDF into several
   by page range. Desktop GUI and CLI in Portuguese and English, with macOS and Windows
   builds.
